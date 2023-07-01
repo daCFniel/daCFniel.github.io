@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.crystal.android.deeplink",
+    "package_name": "com.example.sonos_integration",
     "sha256_cert_fingerprints":
-    ["C4:B4:9C:48:44:BA:E0:94:4A:F1:55:C9:7C:0B:35:E6:26:0B:50:02:AE:24:0D:9F:64:EE:A3:86:24:2A:7B:D1"]
+    ["18:AF:CC:1A:22:D2:19:65:C6:70:54:1F:2D:55:A5:D6:C0:E9:30:1F:CD:3E:72:2B:A1:8C:59:79:DE:44:75:17"]
   }
 }]
