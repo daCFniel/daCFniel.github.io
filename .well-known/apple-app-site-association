@@ -1,10 +1,12 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appID": "S99A8V4KCR.com.uk.co.ideaworks.sonosIntegration",
-             "paths": ["/??"]
-           }
-       ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": {
+            "S99A8V4KCR.uk.co.ideaworks.sonosIntegration": {
+                "paths": [
+                    "/*",
+                ]
+            }
+        }
+    }
 }
