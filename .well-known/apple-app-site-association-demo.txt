@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "details": {
+            "S99A8V4KCR.uk.co.ideaworks.sonosIntegration": {
+                "paths": ["/*"]
+            }
+        }
+    }
+}
