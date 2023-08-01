@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.sonos_integration",
+    "sha256_cert_fingerprints":
+    ["18:AF:CC:1A:22:D2:19:65:C6:70:54:1F:2D:55:A5:D6:C0:E9:30:1F:CD:3E:72:2B:A1:8C:59:79:DE:44:75:17"]
+  }
+}]
