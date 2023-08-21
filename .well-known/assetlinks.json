@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.tybahome.config",
     "sha256_cert_fingerprints":
-    ["24:CE:55:52:E5:9F:A2:BA:35:42:A0:45:E4:17:B5:BC:BE:8D:96:90:F9:79:1A:B0:DB:0D:C8:20:D6:45:80:8B"]
+    ["24:CE:55:52:E5:9F:A2:BA:35:42:A0:45:E4:17:B5:BC:BE:8D:96:90:F9:79:1A:B0:DB:0D:C8:20:D6:45:80:8B",
+      "45:84:39:E9:A6:69:DB:03:59:89:06:B6:F0:3E:2E:65:74:BF:2F:52:0F:36:BF:00:A5:81:0E:20:EF:9F:26:F2"]
   }
 }]
